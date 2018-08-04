@@ -1,0 +1,5 @@
+type Query {
+  hello: String
+  world: AThing
+  circle(radius: Float): Circle
+}

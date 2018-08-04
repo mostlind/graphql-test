@@ -1,0 +1,6 @@
+type AThing {
+  name: String
+  numbers: [Int]
+  title: String
+  book: Book
+}

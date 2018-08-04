@@ -1,0 +1,9 @@
+type Point {
+  x: Float
+  y: Float
+}
+
+type Circle {
+  center: Point
+  radius: Float
+}

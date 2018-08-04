@@ -1,0 +1,6 @@
+type Book {
+  id: Int
+  thing: AThing
+  title: String
+  pages: Int
+}
